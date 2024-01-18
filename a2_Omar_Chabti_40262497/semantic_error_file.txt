@@ -1,0 +1,114 @@
+Semantic error in file: books1995.csv.txt at line 1
+====================
+Error: Bad year
+Record: books1995.csv.txt
+
+Semantic error in file: books1999.csv.txt at line 14
+====================
+Error: Bad Price
+Record: books1999.csv.txt
+
+File "books2000.csv.txt" not found, skipping
+
+File "books2001.csv.txt" not found, skipping
+
+Semantic error in file: books2006.csv.txt at line 22
+====================
+Error: Bad year
+Record: books2006.csv.txt
+
+Semantic error in file: books1995.csv.txt at line 1
+====================
+Error: Bad year
+Record: books1995.csv.txt
+
+Semantic error in file: books1999.csv.txt at line 14
+====================
+Error: Bad Price
+Record: books1999.csv.txt
+
+File "books2000.csv.txt" not found, skipping
+
+File "books2001.csv.txt" not found, skipping
+
+Semantic error in file: books2006.csv.txt at line 22
+====================
+Error: Bad year
+Record: books2006.csv.txt
+
+Semantic error in file: books1995.csv.txt at line 1
+====================
+Error: Bad year
+Record: books1995.csv.txt
+
+Semantic error in file: books1999.csv.txt at line 14
+====================
+Error: Bad Price
+Record: books1999.csv.txt
+
+File "books2000.csv.txt" not found, skipping
+
+File "books2001.csv.txt" not found, skipping
+
+Semantic error in file: books2006.csv.txt at line 22
+====================
+Error: Bad year
+Record: books2006.csv.txt
+
+Semantic error in file: books1995.csv.txt at line 1
+====================
+Error: Bad year
+Record: books1995.csv.txt
+
+Semantic error in file: books1999.csv.txt at line 14
+====================
+Error: Bad Price
+Record: books1999.csv.txt
+
+File "books2000.csv.txt" not found, skipping
+
+File "books2001.csv.txt" not found, skipping
+
+Semantic error in file: books2006.csv.txt at line 22
+====================
+Error: Bad year
+Record: books2006.csv.txt
+
+Semantic error in file: books1995.csv.txt at line 1
+====================
+Error: Bad year
+Record: books1995.csv.txt
+
+Semantic error in file: books1999.csv.txt at line 14
+====================
+Error: Bad Price
+Record: books1999.csv.txt
+
+File "books2000.csv.txt" not found, skipping
+
+File "books2001.csv.txt" not found, skipping
+
+Semantic error in file: books2006.csv.txt at line 22
+====================
+Error: Bad year
+Record: books2006.csv.txt
+
+Semantic error in file: books1995.csv.txt at line 1
+====================
+Error: Bad year
+Record: books1995.csv.txt
+
+Semantic error in file: books1999.csv.txt at line 14
+====================
+Error: Bad Price
+Record: books1999.csv.txt
+
+File "books2000.csv.txt" not found, skipping
+
+File "books2001.csv.txt" not found, skipping
+
+Semantic error in file: books2006.csv.txt at line 22
+====================
+Error: Bad year
+Record: books2006.csv.txt
+

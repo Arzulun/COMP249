@@ -1,0 +1,270 @@
+Syntax error in file: books2002.csv.txt at line 3
+====================
+Error: Unknown genre
+Record: "Gravesites of Southern Musicians - A Guide To Over 300 Jazz, Blues, Country And Rock Performers' Burial Places",Edward Amos,35.95,9780786412709,MBR,2002
+
+Syntax error in file: books2003.csv.txt at line 17
+====================
+Error: Unknown genre
+Record: Wagner and Suicide,John Louis DiGaetani,39.95,9780786414772,BRM,2003
+
+Syntax error in file: books2004.csv.txt at line 2
+====================
+Error: Unknown genre
+Record: Up From The Vault - Rare Thrillers of The 1920S And 1930S,John T. Soister,49.5,9780786417452,CTV,2004
+
+Bad ISBN-10
+Syntax error in file: books2005.csv.txt at line 7
+====================
+Error: Unknown genre
+Record: Hanna-Barbera Cartoons,Michael Mallory,18.95,0883631083,CBB,2005
+
+Bad ISBN-10
+Bad ISBN-10
+Bad ISBN-10
+Syntax error in file: books2007.csv.txt at line 2
+====================
+Error: Unknown genre
+Record: Mad Magazine - Spy Vs. Spy: The Complete Casebook,Antonio Prohias,15.95,0823050211,BCC,2007
+
+Bad ISBN-10
+Syntax error in file: books2008.csv.txt at line 17
+====================
+Error: Unknown genre
+Record: Billboard - Hot Dance/Disco 1974-2003,Joel Whitburn,37.95,089820156X,RFG,2008
+
+Syntax error in file: books2009.csv.txt at line 4
+====================
+Error: Unknown genre
+Record: Manga Martial Arts,David Okum,16.95,1600610293,CBC,2009
+
+Syntax error in file: books2010.csv.txt at line 2
+====================
+Error: too few fields
+Record: Supervillian Book: The Evil Side of Comics and Hollywood,Gina Misiroglu & Michael Eury,24.95,1578591783,CCB,
+
+Syntax error in file: books2002.csv.txt at line 3
+====================
+Error: Unknown genre
+Record: "Gravesites of Southern Musicians - A Guide To Over 300 Jazz, Blues, Country And Rock Performers' Burial Places",Edward Amos,35.95,9780786412709,MBR,2002
+
+Syntax error in file: books2003.csv.txt at line 17
+====================
+Error: Unknown genre
+Record: Wagner and Suicide,John Louis DiGaetani,39.95,9780786414772,BRM,2003
+
+Syntax error in file: books2004.csv.txt at line 2
+====================
+Error: Unknown genre
+Record: Up From The Vault - Rare Thrillers of The 1920S And 1930S,John T. Soister,49.5,9780786417452,CTV,2004
+
+Bad ISBN-10
+Syntax error in file: books2005.csv.txt at line 7
+====================
+Error: Unknown genre
+Record: Hanna-Barbera Cartoons,Michael Mallory,18.95,0883631083,CBB,2005
+
+Bad ISBN-10
+Bad ISBN-10
+Bad ISBN-10
+Syntax error in file: books2007.csv.txt at line 2
+====================
+Error: Unknown genre
+Record: Mad Magazine - Spy Vs. Spy: The Complete Casebook,Antonio Prohias,15.95,0823050211,BCC,2007
+
+Bad ISBN-10
+Syntax error in file: books2008.csv.txt at line 17
+====================
+Error: Unknown genre
+Record: Billboard - Hot Dance/Disco 1974-2003,Joel Whitburn,37.95,089820156X,RFG,2008
+
+Syntax error in file: books2009.csv.txt at line 4
+====================
+Error: Unknown genre
+Record: Manga Martial Arts,David Okum,16.95,1600610293,CBC,2009
+
+Syntax error in file: books2010.csv.txt at line 2
+====================
+Error: too few fields
+Record: Supervillian Book: The Evil Side of Comics and Hollywood,Gina Misiroglu & Michael Eury,24.95,1578591783,CCB,
+
+Syntax error in file: books2002.csv.txt at line 3
+====================
+Error: Unknown genre
+Record: "Gravesites of Southern Musicians - A Guide To Over 300 Jazz, Blues, Country And Rock Performers' Burial Places",Edward Amos,35.95,9780786412709,MBR,2002
+
+Syntax error in file: books2003.csv.txt at line 17
+====================
+Error: Unknown genre
+Record: Wagner and Suicide,John Louis DiGaetani,39.95,9780786414772,BRM,2003
+
+Syntax error in file: books2004.csv.txt at line 2
+====================
+Error: Unknown genre
+Record: Up From The Vault - Rare Thrillers of The 1920S And 1930S,John T. Soister,49.5,9780786417452,CTV,2004
+
+Bad ISBN-10
+Syntax error in file: books2005.csv.txt at line 7
+====================
+Error: Unknown genre
+Record: Hanna-Barbera Cartoons,Michael Mallory,18.95,0883631083,CBB,2005
+
+Bad ISBN-10
+Bad ISBN-10
+Bad ISBN-10
+Syntax error in file: books2007.csv.txt at line 2
+====================
+Error: Unknown genre
+Record: Mad Magazine - Spy Vs. Spy: The Complete Casebook,Antonio Prohias,15.95,0823050211,BCC,2007
+
+Bad ISBN-10
+Syntax error in file: books2008.csv.txt at line 17
+====================
+Error: Unknown genre
+Record: Billboard - Hot Dance/Disco 1974-2003,Joel Whitburn,37.95,089820156X,RFG,2008
+
+Syntax error in file: books2009.csv.txt at line 4
+====================
+Error: Unknown genre
+Record: Manga Martial Arts,David Okum,16.95,1600610293,CBC,2009
+
+Syntax error in file: books2010.csv.txt at line 2
+====================
+Error: too few fields
+Record: Supervillian Book: The Evil Side of Comics and Hollywood,Gina Misiroglu & Michael Eury,24.95,1578591783,CCB,
+
+Syntax error in file: books2002.csv.txt at line 3
+====================
+Error: Unknown genre
+Record: "Gravesites of Southern Musicians - A Guide To Over 300 Jazz, Blues, Country And Rock Performers' Burial Places",Edward Amos,35.95,9780786412709,MBR,2002
+
+Syntax error in file: books2003.csv.txt at line 17
+====================
+Error: Unknown genre
+Record: Wagner and Suicide,John Louis DiGaetani,39.95,9780786414772,BRM,2003
+
+Syntax error in file: books2004.csv.txt at line 2
+====================
+Error: Unknown genre
+Record: Up From The Vault - Rare Thrillers of The 1920S And 1930S,John T. Soister,49.5,9780786417452,CTV,2004
+
+Bad ISBN-10
+Syntax error in file: books2005.csv.txt at line 7
+====================
+Error: Unknown genre
+Record: Hanna-Barbera Cartoons,Michael Mallory,18.95,0883631083,CBB,2005
+
+Bad ISBN-10
+Bad ISBN-10
+Bad ISBN-10
+Syntax error in file: books2007.csv.txt at line 2
+====================
+Error: Unknown genre
+Record: Mad Magazine - Spy Vs. Spy: The Complete Casebook,Antonio Prohias,15.95,0823050211,BCC,2007
+
+Bad ISBN-10
+Syntax error in file: books2008.csv.txt at line 17
+====================
+Error: Unknown genre
+Record: Billboard - Hot Dance/Disco 1974-2003,Joel Whitburn,37.95,089820156X,RFG,2008
+
+Syntax error in file: books2009.csv.txt at line 4
+====================
+Error: Unknown genre
+Record: Manga Martial Arts,David Okum,16.95,1600610293,CBC,2009
+
+Syntax error in file: books2010.csv.txt at line 2
+====================
+Error: too few fields
+Record: Supervillian Book: The Evil Side of Comics and Hollywood,Gina Misiroglu & Michael Eury,24.95,1578591783,CCB,
+
+Syntax error in file: books2002.csv.txt at line 3
+====================
+Error: Unknown genre
+Record: "Gravesites of Southern Musicians - A Guide To Over 300 Jazz, Blues, Country And Rock Performers' Burial Places",Edward Amos,35.95,9780786412709,MBR,2002
+
+Syntax error in file: books2003.csv.txt at line 17
+====================
+Error: Unknown genre
+Record: Wagner and Suicide,John Louis DiGaetani,39.95,9780786414772,BRM,2003
+
+Syntax error in file: books2004.csv.txt at line 2
+====================
+Error: Unknown genre
+Record: Up From The Vault - Rare Thrillers of The 1920S And 1930S,John T. Soister,49.5,9780786417452,CTV,2004
+
+Bad ISBN-10
+Syntax error in file: books2005.csv.txt at line 7
+====================
+Error: Unknown genre
+Record: Hanna-Barbera Cartoons,Michael Mallory,18.95,0883631083,CBB,2005
+
+Bad ISBN-10
+Bad ISBN-10
+Bad ISBN-10
+Syntax error in file: books2007.csv.txt at line 2
+====================
+Error: Unknown genre
+Record: Mad Magazine - Spy Vs. Spy: The Complete Casebook,Antonio Prohias,15.95,0823050211,BCC,2007
+
+Bad ISBN-10
+Syntax error in file: books2008.csv.txt at line 17
+====================
+Error: Unknown genre
+Record: Billboard - Hot Dance/Disco 1974-2003,Joel Whitburn,37.95,089820156X,RFG,2008
+
+Syntax error in file: books2009.csv.txt at line 4
+====================
+Error: Unknown genre
+Record: Manga Martial Arts,David Okum,16.95,1600610293,CBC,2009
+
+Syntax error in file: books2010.csv.txt at line 2
+====================
+Error: too few fields
+Record: Supervillian Book: The Evil Side of Comics and Hollywood,Gina Misiroglu & Michael Eury,24.95,1578591783,CCB,
+
+Syntax error in file: books2002.csv.txt at line 3
+====================
+Error: Unknown genre
+Record: "Gravesites of Southern Musicians - A Guide To Over 300 Jazz, Blues, Country And Rock Performers' Burial Places",Edward Amos,35.95,9780786412709,MBR,2002
+
+Syntax error in file: books2003.csv.txt at line 17
+====================
+Error: Unknown genre
+Record: Wagner and Suicide,John Louis DiGaetani,39.95,9780786414772,BRM,2003
+
+Syntax error in file: books2004.csv.txt at line 2
+====================
+Error: Unknown genre
+Record: Up From The Vault - Rare Thrillers of The 1920S And 1930S,John T. Soister,49.5,9780786417452,CTV,2004
+
+Bad ISBN-10
+Syntax error in file: books2005.csv.txt at line 7
+====================
+Error: Unknown genre
+Record: Hanna-Barbera Cartoons,Michael Mallory,18.95,0883631083,CBB,2005
+
+Bad ISBN-10
+Bad ISBN-10
+Bad ISBN-10
+Syntax error in file: books2007.csv.txt at line 2
+====================
+Error: Unknown genre
+Record: Mad Magazine - Spy Vs. Spy: The Complete Casebook,Antonio Prohias,15.95,0823050211,BCC,2007
+
+Bad ISBN-10
+Syntax error in file: books2008.csv.txt at line 17
+====================
+Error: Unknown genre
+Record: Billboard - Hot Dance/Disco 1974-2003,Joel Whitburn,37.95,089820156X,RFG,2008
+
+Syntax error in file: books2009.csv.txt at line 4
+====================
+Error: Unknown genre
+Record: Manga Martial Arts,David Okum,16.95,1600610293,CBC,2009
+
+Syntax error in file: books2010.csv.txt at line 2
+====================
+Error: too few fields
+Record: Supervillian Book: The Evil Side of Comics and Hollywood,Gina Misiroglu & Michael Eury,24.95,1578591783,CCB,
+
